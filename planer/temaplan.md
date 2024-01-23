@@ -16,7 +16,7 @@
 
   - **Deadline:** Torsdag, 25. jan
 
-- **Epic: Projekt Opsætning og Miljøkonfiguration **
+- **Epic: Projekt Opsætning og Miljøkonfiguration**
 
   - Fokus på at sætte udviklingsmiljøet op og introducere grundlæggende teknologier.
 
@@ -32,7 +32,7 @@
 
   - **Deadline:** Fredag, 2. feb
 
-- **Epic: Udvikling af Webshop-Design **
+- **Epic: Udvikling af Webshop-Design**
 
   - Arbejde med designkoncepter, wireframes og prototyper.
 
@@ -48,7 +48,7 @@
 
   - **Deadline:** Torsdag, 8. feb
 
-- **Epic: Brugervenlighedsoptimering **
+- **Epic: Brugervenlighedsoptimering**
 
   - Fokusere på brugervenlighedsaspekter i designet, herunder interaktive elementer og responsivt design.
 
@@ -67,7 +67,7 @@
 
   - **Deadline:** Fredag, 23. feb
  
-- **Epic: SEO og Markedsføringsfunktioner **
+- **Epic: SEO og Markedsføringsfunktioner**
 
   - Integrere SEO-optimeringer og udvikle markedsføringsstrategier.
 
@@ -81,7 +81,7 @@
 
   - **Deadline:** Fredag, 2. mar
  
-- **Epic: Design og Layout Optimering **
+- **Epic: Design og Layout Optimering**
 
   - Finpudse design og layout, implementere responsive designprincipper.
 
@@ -96,7 +96,7 @@
 
   - **Deadline:** Fredag, 9. mar
  
-- **Epic: Splittest og Performance Evaluering **
+- **Epic: Splittest og Performance Evaluering**
 
   - Udføre og analysere splittest (A/B-testing), evaluere ydeevne.
 
@@ -113,8 +113,8 @@
 
 ### Noter:
 
-- Regelmæssige tjek-ind og justeringer vil være nødvendige, med hensyn til elevernes læringstempo og behov.
+- Regelmæssige tjek-ind og justeringer vil være nødvendige, med hensyn til læringstempo og behov.
 
 - En vis fleksibilitet i tidsplanen er nødvendig for at imødekomme individuelle læringsstile og behov, især i et miljø med elever med ASD og dysleksi.
 
-- Den sidste uge er reserveret til, at eleverne kan forberede og øve deres præsentationer, hvilket sikrer et behageligt tempo.
+- Den sidste uge er reserveret til, at i kan forberede og øve deres præsentationer, i et roligt tempo.
