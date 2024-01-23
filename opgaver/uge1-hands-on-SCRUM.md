@@ -33,8 +33,8 @@ At få praktisk erfaring med Scrum-processen, inklusive oprettelse og planlægni
    - Grupperne præsenterer, hvad de har 'opnået' i deres sprint.
    - Hele v32 holdet mødes på Teams og hvert team præsenterer deres sprint. Der gives feedback
   
-7. **Skriv opgaver ind i backlog projekt paa GitHub**
-   - Hele holder bliver enige om hvilke opgaver vi skal lave i den kommende uge. Skriv dem ind på GitHub hvor jeg har oprettet et nyt projekt kaldet **Epic: Projekt Opsætning**
+7. **Skriv opgaver ind i backlog projekt på GitHub**
+   - Hele holdet bliver enige om hvilke opgaver i skal lave i den kommende uge. Skriv dem ind på GitHub hvor jeg har oprettet et nyt projekt kaldet [Epic: Projekt Opsætning](https://github.com/orgs/v32-aspit-ecommerce/projects/3)
 
 ## Tidsramme
 - Samlet varighed: 2 timer.
