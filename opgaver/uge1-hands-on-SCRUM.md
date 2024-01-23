@@ -30,7 +30,7 @@ At få praktisk erfaring med Scrum-processen, inklusive oprettelse og planlægni
    - Hver gruppe gennemfører et kort, simuleret standup møde.
 
 6. **Sprint Review og Retrospektiv**
-   - Grupperne præsenterer, hvad de har 'opnået' i deres sprint.
+   - Grupperne præsenterer, hvad de har planlagt til deres sprint.
    - Hele v32 holdet mødes på Teams og hvert team præsenterer deres sprint. Der gives feedback
   
 7. **Skriv opgaver ind i backlog projekt på GitHub**
