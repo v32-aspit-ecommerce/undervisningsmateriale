@@ -23,16 +23,21 @@ At få praktisk erfaring med Scrum-processen, inklusive oprettelse og planlægni
      - Eksempel på en User Story der er brudt ned, findes til sidst i dokumentet.
 
 3. **Planlæg Et Sprint**
-   - Grupperne planlægger et sprint baseret på de valgte user stories. Sprintet skal tage 1 uge
+   - Grupperne planlægger et sprint baseret på de valgte user stories. Sprintet skal tage 1 uge. Dvs hvis alle jeres opgaver tager mere end 12 timer, så må i prioritere og vælge dem i helt vil lave og kan nå.
 
 4. **Dagligt Standup Møde (Simuleret)**
+   - Vi laver dette når klement er tilbage.
    - Hver gruppe gennemfører et kort, simuleret standup møde.
 
-5. **Sprint Review og Retrospektiv**
+6. **Sprint Review og Retrospektiv**
    - Grupperne præsenterer, hvad de har 'opnået' i deres sprint.
+   - Hele v32 holdet mødes på Teams og hvert team præsenterer deres sprint. Der gives feedback
+  
+7. **Skriv opgaver ind i backlog projekt paa GitHub**
+   - Hele holder bliver enige om hvilke opgaver vi skal lave i den kommende uge. Skriv dem ind på GitHub hvor jeg har oprettet et nyt projekt kaldet **Epic: Projekt Opsætning**
 
 ## Tidsramme
-- Samlet varighed: 1.5 time.
+- Samlet varighed: 2 timer.
 
 ## Eksempel på User Story i opgaver
  User Story: **Som udvikler ønsker jeg et versionkontrolsystem sat op, så vi kan spore ændringer og samarbejde effektivt på kodebasen.**
