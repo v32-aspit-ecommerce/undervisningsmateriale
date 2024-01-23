@@ -16,7 +16,7 @@ At få praktisk erfaring med Scrum-processen, inklusive oprettelse og planlægni
      - **Product Owner**: Prioriterer opgaverne i Product Backlog og sikrer, at teamets arbejde skaber værdi.
 
 2. **Opret Epics og User Stories**
-   - Grupperne arbejder med følgende epics:
+   - Begge teans arbejder med denne epic:
      - Epic: Projekt Opsætning og Miljøkonfiguration
        - User Story: "Som udvikler ønsker jeg et opsat og fungerende udviklingsmiljø, så jeg kan begynde at kode."
        - User Story: "Som team ønsker vi en fælles forståelse af de anvendte teknologier og arkitektur."
@@ -38,13 +38,6 @@ At få praktisk erfaring med Scrum-processen, inklusive oprettelse og planlægni
  User Story: **Som udvikler ønsker jeg et versionkontrolsystem sat op, så vi kan spore ændringer og samarbejde effektivt på kodebasen.**
 
  ### Brudt ned i opgaver
- Forstået, lad os opstille en anden user story for epic'en "Projekt Opsætning og Miljøkonfiguration" og bryde den ned i opgaver, der passer til en uges sprint. Disse opgaver kan derefter tilføjes til en backlog på GitHub.
-
-### User Story
-
-**"Som udvikler ønsker jeg et versionkontrolsystem sat op, så vi kan spore ændringer og samarbejde effektivt på kodebasen."**
-
-#### Brydning Ned i Opgaver for GitHub Backlog
 1. **Vælg og Opsæt et Versionkontrolsystem**
    - Opgave: Research og vælg et passende versionkontrolsystem (f.eks. Git).
    - Tidsforbrug: 2 timer.
