@@ -16,6 +16,10 @@
 
   - **Deadline:** Torsdag, 25. jan
 
+- **Epic: Projekt Opsætning og Miljøkonfiguration **
+
+  - Fokus på at sætte udviklingsmiljøet op og introducere grundlæggende teknologier.
+
 #### Uge 2 (29. jan - 2. feb)
 
 - **Milepæl 2: Basal Udvikling og Læring**
@@ -28,6 +32,10 @@
 
   - **Deadline:** Fredag, 2. feb
 
+- **Epic: Udvikling af Webshop-Design **
+
+  - Arbejde med designkoncepter, wireframes og prototyper.
+
 #### Uge 3 (5. feb - 9. feb)
 
 - **Milepæl 3: Fremskridt i Udviklingen**
@@ -39,6 +47,11 @@
   - Implementer indledende designelementer.
 
   - **Deadline:** Torsdag, 8. feb
+
+- **Epic: Brugervenlighedsoptimering **
+
+  - Fokusere på brugervenlighedsaspekter i designet, herunder interaktive elementer og responsivt design.
+
 
 #### Uge 4 (12. feb - 18. feb) - Ferietid
 
@@ -53,6 +66,10 @@
   - Forbedr design og frontend-funktioner.
 
   - **Deadline:** Fredag, 23. feb
+ 
+- **Epic: SEO og Markedsføringsfunktioner **
+
+  - Integrere SEO-optimeringer og udvikle markedsføringsstrategier.
 
 #### Uge 6 (26. feb - 2. mar)
 
@@ -63,6 +80,11 @@
   - Begynd SEO-optimering og justering af responsivt design.
 
   - **Deadline:** Fredag, 2. mar
+ 
+- **Epic: Design og Layout Optimering **
+
+  - Finpudse design og layout, implementere responsive designprincipper.
+
 
 #### Uge 7 (5. mar - 9. mar)
 
@@ -73,6 +95,11 @@
   - Fokus på fejlfinding, forfining og polering af projektet.
 
   - **Deadline:** Fredag, 9. mar
+ 
+- **Epic: Splittest og Performance Evaluering **
+
+  - Udføre og analysere splittest (A/B-testing), evaluere ydeevne.
+
 
 #### Uge 8 (12. mar - 15. mar)
 
